@@ -1,5 +1,5 @@
 # SoundAPI
-A API which it making sound easily and simple!
+A API which it making sound easily and simple for PocketMine API4!
 ### How to use this plugin?
 Simplified coding as easier on your plugin that you are develop it!
 ## API 
