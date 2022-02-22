@@ -1,0 +1,5 @@
+name: SoundAPI
+api: 4.0.0
+author: SunshroomChan
+main: SunshroomChan\SoundAPI\SoundAPI
+version: 1.0.0
