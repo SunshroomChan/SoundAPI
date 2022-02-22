@@ -1,5 +1,7 @@
 # SoundAPI
 A API which it making sound easily and simple for PocketMine API4!
+![](https://poggit.pmmp.io/shield.state/SoundAPI)](https://poggit.pmmp.io/p/SoundAPI)
+<a href="https://poggit.pmmp.io/p/SoundAPI"><img src="https://poggit.pmmp.io/shield.state/SoundAPI"></a>
 ### How to use this plugin?
 Simplified coding as easier on your plugin that you are develop it!
 ## API 
