@@ -19,6 +19,6 @@ SoundAPI::getInstance()->addSound($player, 'note.hat' <= this sound you can get 
 ```
 - **Stop sound**<br>
 If you want to stop sound, just easily doing this:
-``php
+```php
 SoundAPI::getInstance()->stopSound($player, 'same as add sound', true(false) <= it use for stop all sound);
 ```
